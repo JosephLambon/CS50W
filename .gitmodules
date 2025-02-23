@@ -1,0 +1,3 @@
+[submodule "Auctions"]
+	path = Auctions
+	url = https://github.com/JosephLambon/Auctions.git
