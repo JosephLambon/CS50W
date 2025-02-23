@@ -1,3 +1,12 @@
 [submodule "Auctions"]
 	path = Auctions
 	url = https://github.com/JosephLambon/Auctions.git
+[submodule "Mail"]
+	path = Mail
+	url = https://github.com/JosephLambon/Mail.git
+[submodule "Social-Network"]
+	path = Social-Network
+	url = https://github.com/JosephLambon/Social-Network.git
+[submodule "Productivity-App"]
+	path = Productivity-App
+	url = https://github.com/JosephLambon/Productivity-App.git
